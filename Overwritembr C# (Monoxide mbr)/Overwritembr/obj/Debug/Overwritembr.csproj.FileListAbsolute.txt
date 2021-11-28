@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\bin\Debug\Overwritembr.exe
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\bin\Debug\Overwritembr.pdb
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\obj\Debug\Overwritembr.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\obj\Debug\Overwritembr.Properties.Resources.resources
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\obj\Debug\Overwritembr.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\obj\Debug\Overwritembr.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\obj\Debug\Overwritembr.exe
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\obj\Debug\Overwritembr.pdb
+C:\Users\Owner\source\repos\Overwritembr\Overwritembr\bin\Debug\Overwritembr.exe.config
